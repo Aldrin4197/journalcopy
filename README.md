@@ -1,0 +1,2 @@
+# journalcopy
+Sample
